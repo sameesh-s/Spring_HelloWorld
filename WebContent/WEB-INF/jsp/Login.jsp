@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Operation Sucess</title>
+<title>Login</title>
 </head>
 <body>
-<h2>Sucess</h2>
-	<h1><%=session.getAttribute("user")%></h1>
+<h1>Login or Register</h1>
 </body>
 </html>
